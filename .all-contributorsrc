@@ -1,0 +1,20 @@
+{
+  "projectName": "pico-for-high-school-6w",
+  "projectOwner": "greatsong",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": ["README.md"],
+  "imageSize": 80,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "greatsong",
+      "name": "석리송",
+      "avatar_url": "https://github.com/greatsong.png",
+      "profile": "https://github.com/greatsong",
+      "contributions": ["content", "maintenance", "projectManagement"]
+    }
+  ],
+  "contributorsPerLine": 7
+}

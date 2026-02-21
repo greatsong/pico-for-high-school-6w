@@ -1,4 +1,18 @@
+# 피코 기초반
 
+라즈베리 파이 피코 기초 교육과정
+
+**사이트 바로가기**: https://greatsong.github.io/pico-for-high-school-6w/
+
+## 함께 만들어가요
+
+선생님들의 참여를 환영합니다!
+
+- **오탈자·오류 발견** — [Issues](../../issues)에 알려주세요
+- **내용 개선 제안** — 더 좋은 설명이나 예시가 있다면 [Issues](../../issues) 또는 PR로 보내주세요
+- **나만의 교육 자료 만들기** — [에듀플로](https://github.com/greatsong/data-ai-book)로 직접 만든 자료를 [포트폴리오](https://greatsong.github.io/eduflow-portfolio/)에 등록할 수 있습니다
+
+> 자세한 기여 방법은 [CONTRIBUTING.md](CONTRIBUTING.md)를 참고해 주세요.
 
 ## ✨ 기여자 (Contributors)
 
@@ -17,3 +31,6 @@
 > 💡 기여해주시면 여기에 자동으로 프로필이 추가됩니다!
 > Issue 댓글에 `@all-contributors please add @사용자명 for content` 라고 남겨주세요.
 
+---
+
+Made with [에듀플로](https://github.com/greatsong/data-ai-book)
